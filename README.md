@@ -63,12 +63,10 @@ This command will execute the algorithms, display generated group schedules, and
 
 // ... your code snippets ...
 ```
-
+Replace the code snippets in the "Usage Examples" section with actual examples demonstrating how to use your algorithms, considering the structure and functionalities of your code.
 
 ## Contributing 🛠️
 This repository is not actively maintained, but feel free to explore, read the intractability proof, and reuse any algorithms provided.
 
 ## Disclaimer 🚫
 This project is not intended for active contribution, but rather for sharing insights and algorithms. Good luck with your fellowship scheduling endeavors! 🌐
-
-Note: Replace the code snippets in the "Usage Examples" section with actual examples demonstrating how to use your algorithms, considering the structure and functionalities of your code.
