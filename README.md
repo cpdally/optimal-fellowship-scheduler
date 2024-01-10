@@ -40,6 +40,20 @@ This problem is actually NP-Hard. For those interested in the theoretical aspect
 ### 3. Optimal Approximation Algorithm
 - The optimal algorithm, providing an optimal approximation. It takes a bias factor, running the algorithm with randomness multiple times to find the best schedule.
 
+## Running the Benchmark ✨
+
+To benchmark the algorithms using Node.js, follow these steps:
+
+1. Open your terminal.
+2. Navigate to the project directory.
+3. Run the following command:
+
+```bash
+node benchmark/scheduleTest.js
+```
+
+This command will execute the algorithms, display generated group schedules, and output the results, including execution times for each algorithm.
+
 ## Usage Examples 📚
 
 ```javascript
