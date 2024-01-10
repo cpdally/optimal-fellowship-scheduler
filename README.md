@@ -30,7 +30,7 @@ The challenge originated when attempting to efficiently schedule fellowships. Th
 This problem is actually NP-Hard. For those interested in the theoretical aspects, check out my proof of intractability in the intractability.md file.
 
 ## Algorithms Implemented 🚀
-
+All of the algorithms are in `scheduleUtils.js`. 
 ### 1. Greedy Algorithm
 - A greedy approach that works well in most cases but may have limitations in certain edge cases.
 
